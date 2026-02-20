@@ -12,16 +12,18 @@
 
 ---
 
-### ⬛ Sobre Mim
-Desenvolvedor Full Stack Júnior & Designer <br> Especialista em unir estética visual (UI/UX) com funcionalidades robustas de Backend. <br> Experiência em transformar ideias em produtos digitais funcionais (SaaS). 
-<br>
-**📍 Localização:** Guarulhos, SP
+### ⬛ Sobre Mim <br>
+Olá! Sou o Sam, tenho 24 anos e sou desenvolvedor. <br>
+_Além do código, minha identidade é moldada por:_ <br><br>
+🐧 Entusiasta Linux: Adoro a liberdade e o controle que o ambiente open-source oferece. <br>
+  🕵️ Investigação Cibernética: O que começou como hobby se tornou uma missão. <br> Dedico parte do meu tempo resolvendo crimes virtuais em redes sociais. <br>
+ 📚 Cultura & Lazer: Gosto de mergulhar em uma boa leitura, <br> disputar algumas partidas de jogos e acompanhar meus animes favoritos. <br>
 
 ### ⬛ Perfil Profissional
 * Desenvolvedor Full Stack Júnior & Designer
 * Experiência em transformar ideias em produtos digitais funcionais (SaaS). <br>
 * Portifólio: https://theneverland.world/#portifolio
-
+📍 Localização: São Paulo <br>
 ---
 
 ### 🐦‍⬛ Tech Stack & Skills
