@@ -13,7 +13,7 @@
 ---
 
 ### ⬛ Sobre Mim <br>
-Olá! Sou o Sam, tenho 24 anos e sou desenvolvedor. <br>
+_Oii! Sou o Sam, tenho 24 anos e sou Desenvolvedor._ <br>
 _Além do código, minha identidade é moldada por:_ <br><br>
 🐧 Entusiasta Linux: Adoro a liberdade e o controle que o ambiente open-source oferece. <br>
   🕵️ Investigação Cibernética: O que começou como hobby se tornou uma missão. <br> Dedico parte do meu tempo resolvendo crimes virtuais em redes sociais. <br>
