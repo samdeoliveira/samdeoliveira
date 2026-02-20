@@ -14,7 +14,7 @@
 
 ### ⬛ Sobre Mim
 
-> ❝ *Oii! Sou o Sam, tenho 24 anos e sou um entusiasta da tecnologia que vive na fronteira entre o design e a segurança.* ❞ *Além do código, minha identidade é moldada por:*
+> ❝ *Oii! Sou o Sam, tenho 24 anos e vivo na fronteira entre o design e a segurança.* ❞ <br> *Além do código, minha identidade é moldada por:*
 * 🕵️ **ɪɴᴠᴇꜱᴛɪɢᴀçãᴏ ᴄɪʙᴇʀɴéᴛɪᴄᴀ** — *Hobby que virou missão: resolvo crimes virtuais em redes sociais.*
 * 🐧 **ᴇɴᴛᴜꜱɪᴀꜱᴛᴀ ʟɪɴᴜx** — *A liberdade e o controle do ambiente open-source são minha base.*
 * 📚 **Cultura & Lazer:** Leitura, jogos e animes são essenciais no meu tempo livre.
