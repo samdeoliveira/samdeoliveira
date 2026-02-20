@@ -12,12 +12,12 @@
 
 ---
 
-### ⬛ Sobre Mim <br>
-_Oii! Sou o Sam, tenho 24 anos e sou Desenvolvedor._ <br>
-_Além do código, minha identidade é moldada por:_ <br><br>
-🐧 Entusiasta Linux: Adoro a liberdade e o controle que o ambiente open-source oferece. <br>
-  🕵️ Investigação Cibernética: O que começou como hobby se tornou uma missão. <br> Dedico parte do meu tempo resolvendo crimes virtuais em redes sociais. <br>
- 📚 Cultura & Lazer: Gosto de mergulhar em uma boa leitura, <br> disputar algumas partidas de jogos e acompanhar meus animes favoritos. <br>
+### ⬛ Sobre Mim
+*Oii! Sou o Sam, tenho 24 anos e sou Desenvolvedor Fullstack & Designer.* <br>
+*Além do código, minha identidade é moldada por:*
+* 🕵️ **Investigação Cibernética:** Hobby que virou missão; resolvo crimes virtuais em redes sociais.
+* 🐧 **Entusiasta Linux:** Adoro a liberdade e o controle do ambiente open-source.
+* 📚 **Cultura & Lazer:** Leitura, jogos e animes são essenciais no meu tempo livre.
 
 ### ⬛ Perfil Profissional
 * Desenvolvedor Full Stack Júnior & Designer
