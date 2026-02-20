@@ -64,22 +64,30 @@ _Além do código, minha identidade é moldada por:_ <br><br>
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🔴 Neverland World</h3>
       <p align="center"><i>Inteligência Digital e Investigação</i></p>
+      <p><strong>🎨 Design:</strong> Futurista e <i>bold</i>, com tipografia de jornais antigos (estilo <i>OSINT</i>).</p>
+      <p><strong>🏗️ Sistema:</strong></p>
       <ul>
-        <li>Checkout automatizado via PIX.</li>
-        <li>Segurança avançada e higienização de dados.</li>
+        <li><i>Landing Page</i> imersiva com animações investigativas.</li>
+        <li>Blog dinâmico e Sistema de Denúncias.</li>
+        <li>Pagamentos via <i>MisticPay</i> com <i>Webhooks</i>.</li>
       </ul>
+      <p><strong>🛡️ Segurança:</strong> Proteção contra <i>SQLi, XSS</i> e <i>Bruteforce</i>; infraestrutura via <i>Cloudflare</i>.</p>
       <p align="center"><a href="https://theneverland.world"><strong>[ Ver Projeto ]</strong></a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🟢 Eclipse System</h3>
       <p align="center"><i>E-learning para Cybersecurity</i></p>
+      <p><strong>🎨 Design:</strong> <i>Dark Palette</i> (Green/Black) baseada no estilo refinado do <i>macOS</i>.</p>
+      <p><strong>🏗️ Sistema:</strong></p>
       <ul>
-        <li>Auth robusto com hashes e UIDs únicos.</li>
-        <li>Gamificação e desafios CTF integrados.</li>
+        <li>Gamificação com conquistas e desafios <i>CTF</i>.</li>
+        <li><i>Paywall</i> com acesso via licença validada no <i>Backend</i>.</li>
+        <li><i>Auth</i> rigorosa (UIDs únicos e <i>bcrypt</i>).</li>
       </ul>
+      <p><strong>🛡️ Segurança:</strong> Camada blindada contra <i>Session Hijacking</i> e infraestrutura resiliente.</p>
       <p align="center"><a href="https://eclipsesystem.com.br"><strong>[ Ver Projeto ]</strong></a></p>
     </td>
   </tr>
