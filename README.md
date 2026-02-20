@@ -103,5 +103,5 @@
 
 ---
 <p align="center">
-  ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ꜱᴀᴍ ᴅᴇ ᴏʟɪᴠᴇɪʀᴀ © 2026 | ✉️ <a href="mailto:samdeoliveirademelo@gmail.com">samdeoliveirademelo@gmail.com</a>
+  🐦‍⬛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ꜱᴀᴍ ᴅᴇ ᴏʟɪᴠᴇɪʀᴀ © 2026 | 🐦‍⬛ <a href="mailto:samdeoliveirademelo@gmail.com">samdeoliveirademelo@gmail.com</a>
 </p>
