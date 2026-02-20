@@ -1,9 +1,8 @@
 <div align="center">
   <img align="right" height="280" src="https://i.pinimg.com/736x/56/1c/9d/561c9d4ef57e57734e78c108401e406f.jpg" />
   <h1 align="left"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/3183/3183361.png" width="35"> Sam de Oliveira 
+    <img src="https://cdn-icons-png.flaticon.com/512/3183/3183361.png" width="35"> ꜱᴀᴍ ᴅᴇ ᴏʟɪᴠᴇɪʀᴀ 
   </h1>
-  <p align="left">
   <p align="left">
     <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-green?style=for-the-badge">
     <img src="https://img.shields.io/badge/Focus-High_Performance_&_Security-black?style=for-the-badge">
