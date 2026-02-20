@@ -87,27 +87,8 @@ Desenvolvedor Full Stack Júnior & Designer <br> Especialista em unir estética 
 
 ### 🌐 Presença Digital
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/sam-de-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Chess-000000?style=flat-square&logo=chess.com&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Wattpad-FF6600?style=flat-square&logo=wattpad&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=flat-square&logo=duolingo&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" /></a>
 </p>
 
 ---
