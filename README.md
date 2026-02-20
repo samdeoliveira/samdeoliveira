@@ -13,24 +13,24 @@
 ---
 
 ### ⬛ Sobre Mim
-*Oii! Sou o Sam, tenho 24 anos e sou Desenvolvedor Fullstack & Designer.* <br>
-*Além do código, minha identidade é moldada por:*
-* 🕵️ **Investigação Cibernética:** Hobby que virou missão; resolvo crimes virtuais em redes sociais.
-* 🐧 **Entusiasta Linux:** Adoro a liberdade e o controle do ambiente open-source.
+
+> ❝ *Oii! Sou o Sam, tenho 24 anos e sou um entusiasta da tecnologia que vive na fronteira entre o design e a segurança.* ❞ *Além do código, minha identidade é moldada por:*
+* 🕵️ **ɪɴᴠᴇꜱᴛɪɢᴀçãᴏ ᴄɪʙᴇʀɴéᴛɪᴄᴀ** — *Hobby que virou missão: resolvo crimes virtuais em redes sociais.*
+* 🐧 **ᴇɴᴛᴜꜱɪᴀꜱᴛᴀ ʟɪɴᴜx** — *A liberdade e o controle do ambiente open-source são minha base.*
 * 📚 **Cultura & Lazer:** Leitura, jogos e animes são essenciais no meu tempo livre.
 
 ### ⬛ Perfil Profissional
-* Desenvolvedor Full Stack Júnior & Designer
+* `ᴅᴇꜱᴇɴᴠᴏʟᴠᴇᴅᴏʀ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴊúɴɪᴏʀ & ᴅᴇꜱɪɢɴᴇʀ`
 * Experiência em transformar ideias em produtos digitais funcionais (SaaS). <br>
-* Portifólio: https://theneverland.world/#portifolio
-📍 Localização: São Paulo <br>
+* 🌐 **Portfólio:** [theneverland.world](https://theneverland.world/#portifolio)
+📍 **Localização:** *São Paulo* <br>
 ---
 
 ### 🐦‍⬛ Tech Stack & Skills
-* **Linguagens & Frameworks:** React, Next.js, Node JS, TypeScript, Python.
-* **Bancos de Dados:** PostgreSQL, MariaDB, MongoDB.
-* **Design:** Adobe Photoshop, Figma e Miro.
-* **Especialidades:** OSINT, Investigação Digital
+* **Linguagens & Frameworks:** *React, Next.js, Node JS, TypeScript, Python.*
+* **Bancos de Dados:** *PostgreSQL, MariaDB, MongoDB.*
+* **Design:** *Adobe Photoshop, Figma, Miro.*
+* **Especialidades:** *OSINT, Investigação Digital, CiberSegurança.*
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
