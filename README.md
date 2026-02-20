@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
+  <img align="right" height="280" src="https://i.pinimg.com/736x/56/1c/9d/561c9d4ef57e57734e78c108401e406f.jpg" />
+  <h1 align="left"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/3183/3183361.png" width="35"> Sam de Oliveira 
+  </h1>
+  <p align="left">
+  <p align="left">
+    <img src="https://img.shields.io/badge/Status-Disponível_para_Projetos-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Focus-High_Performance_&_Security-black?style=for-the-badge">
+  </p>
+</div>
 
-<!--
-**samdeoliveira/samdeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⬛ Sobre Mim
+Desenvolvedor Full Stack Júnior & Designer <br> Especialista em unir estética visual (UI/UX) com funcionalidades robustas de Backend. <br> Experiência em transformar ideias em produtos digitais funcionais (SaaS). 
+<br>
+**📍 Localização:** Guarulhos, SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⬛ Perfil Profissional
+* Desenvolvedor Full Stack Júnior & Designer
+* Experiência em transformar ideias em produtos digitais funcionais (SaaS). <br>
+* Portifólio: https://theneverland.world/#portifolio
+
+---
+
+### 🐦‍⬛ Tech Stack & Skills
+* **Linguagens & Frameworks:** React, Next.js, Node JS, TypeScript, Python.
+* **Bancos de Dados:** PostgreSQL, MariaDB, MongoDB.
+* **Design:** Adobe Photoshop, Figma e Miro.
+* **Especialidades:** OSINT, Investigação Digital
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+</p>
+
+---
+
+### 🎓 Certificações
+* **Frontend Web com ReactJS** – Samsung Ocean (2024)
+* **Imersão Sherlock** – Investigação Digital e Espionagem (2024)
+* **Atendimento ao Cliente** – Sebrae (2024)
+* **Design Thinking** – Samsung Ocean (2022)
+* **UX Design** – Samsung Ocean (2022)
+* **Programação em Python** – Samsung Ocean (2022)
+* **Desenvolvimento Ágil, DevOps & Git** – Samsung Ocean (2022)
+* **Adobe Photoshop** (2015)
+
+---
+
+### 🐈‍⬛ Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔴 Neverland World</h3>
+      <p align="center"><i>Inteligência Digital e Investigação</i></p>
+      <ul>
+        <li>Checkout automatizado via PIX.</li>
+        <li>Segurança avançada e higienização de dados.</li>
+      </ul>
+      <p align="center"><a href="https://theneverland.world"><strong>[ Ver Projeto ]</strong></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🟢 Eclipse System</h3>
+      <p align="center"><i>E-learning para Cybersecurity</i></p>
+      <ul>
+        <li>Auth robusto com hashes e UIDs únicos.</li>
+        <li>Gamificação e desafios CTF integrados.</li>
+      </ul>
+      <p align="center"><a href="https://eclipsesystem.com.br"><strong>[ Ver Projeto ]</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Presença Digital
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/sam-de-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chess-000000?style=flat-square&logo=chess.com&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wattpad-FF6600?style=flat-square&logo=wattpad&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=flat-square&logo=duolingo&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  📍 Guarulhos, SP | ✉️ <a href="mailto:samdeoliveirademelo@gmail.com">samdeoliveirademelo@gmail.com</a>
+</p>
