@@ -21,7 +21,7 @@
 ### ⬛ Perfil Profissional
 * `ᴅᴇꜱᴇɴᴠᴏʟᴠᴇᴅᴏʀ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴊúɴɪᴏʀ & ᴅᴇꜱɪɢɴᴇʀ`
 * Experiência em transformar ideias em produtos digitais funcionais (SaaS). <br>
-* 🌐 **Portfólio:** [theneverland.world](https://theneverland.world/#portifolio)
+* 🌐 **Portfólio:** [theneverland.world](https://theneverland.world)
 📍 **Localização:** *São Paulo* <br>
 ---
 
