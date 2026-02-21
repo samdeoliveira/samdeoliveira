@@ -78,11 +78,11 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🟢 Eclipse System</h3>
-      <p align="center"><i>E-learning para Cybersecurity</i></p>
+      <p align="center"><i>E-learning para Investigação Digital</i></p>
       <p><strong>🎨 Design:</strong> <i>Dark Palette</i> (Green/Black) baseada no estilo refinado do <i>macOS</i>.</p>
       <p><strong>🏗️ Sistema:</strong></p>
       <ul>
-        <li>Gamificação com conquistas e desafios <i>CTF</i>.</li>
+        <li>Plataforma de estudos com sistema de conquistas e <i>CTF</i>.</li>
         <li><i>Paywall</i> com acesso via licença validada no <i>Backend</i>.</li>
         <li><i>Auth</i> rigorosa (UIDs únicos e <i>bcrypt</i>).</li>
       </ul>
