@@ -19,7 +19,7 @@
 * 📚 **Cultura & Lazer:** *Leitura, jogos e animes são essenciais no meu tempo livre.*
 
 ### ⬛ Perfil Profissional
-* `ᴅᴇꜱᴇɴᴠᴏʟᴠᴇᴅᴏʀ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴊúɴɪᴏʀ & ᴅᴇꜱɪɢɴᴇʀ`
+* `ᴅᴇꜱᴇɴᴠᴏʟᴠᴇᴅᴏʀ ꜰᴜʟʟꜱᴛᴀᴄᴋ & ᴅᴇꜱɪɢɴᴇʀ`
 * Experiência em transformar ideias em produtos digitais funcionais (SaaS). <br>
 * 🌐 **Portfólio:** [theneverland.world](https://theneverland.world)
 📍 **Localização:** *São Paulo* <br>
