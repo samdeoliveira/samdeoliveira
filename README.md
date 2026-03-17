@@ -28,7 +28,7 @@
 ### 🐦‍⬛ Tech Stack & Skills
 * **Linguagens & Frameworks:** *React, Next.js, Node JS, TypeScript, Python.*
 * **Bancos de Dados:** *PostgreSQL, MariaDB, MongoDB.*
-* **Design:** *Adobe Photoshop, Figma, Miro.*
+* **Design:** *Adobe Photoshop, Figma, GammaApp.*
 * **Especialidades:** *OSINT, Investigação Digital, CiberSegurança.*
 
 <p align="left">
