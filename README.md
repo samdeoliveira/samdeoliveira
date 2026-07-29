@@ -14,8 +14,7 @@
 ### ⬛ Perfil Profissional
 * `ᴅᴇꜱᴇɴᴠᴏʟᴠᴇᴅᴏʀ ꜰᴜʟʟꜱᴛᴀᴄᴋ & ᴅᴇꜱɪɢɴᴇʀ`
 * Experiência em transformar ideias em produtos digitais funcionais (SaaS). <br>
-* 🌐 **Site:** [neverlandinvestigacao.space](https://neverlandinvestigacao.space/)
-📍 **Localização:** *São Paulo* <br>
+📍 **Localização:** *Guarulhos* <br>
 ---
 
 ### 🐦‍⬛ Tech Stack & Skills
